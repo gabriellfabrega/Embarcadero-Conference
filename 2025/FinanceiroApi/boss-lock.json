@@ -1,0 +1,78 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2025-08-02T12:51:11.8576326-03:00",
+	"installedModules": {
+		"github.com/dliocode/horse-utils-clientip": {
+			"name": "horse-utils-clientip",
+			"version": "0.0.8",
+			"hash": "83125fa6038e2377749e27e23b8f3aee",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/handle-exception": {
+			"name": "handle-exception",
+			"version": "0.1.9",
+			"hash": "b7878eb4d418c67420daf8cc2e7f9dda",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/horse": {
+			"name": "horse",
+			"version": "3.1.6",
+			"hash": "7fdacf6b762af6406e17d06e1c5fb0a1",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/horse-logger": {
+			"name": "horse-logger",
+			"version": "2.0.8",
+			"hash": "28a79c896df980b3ad11c44e6a53d42f",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/horse-logger-provider-console": {
+			"name": "horse-logger-provider-console",
+			"version": "1.0.9",
+			"hash": "d8a9d0ed0d0cd97ea0b6f3bd65f62bc6",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/jhonson": {
+			"name": "jhonson",
+			"version": "1.1.9",
+			"hash": "ab9663f2e7c0ab2086e560c9c66ce092",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/paolo-rossi/delphi-jose-jwt": {
+			"name": "delphi-jose-jwt",
+			"version": "v3.3.1",
+			"hash": "30168430005de681e90bef999de6804a",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/viniciussanchez/dataset-serialize": {
+			"name": "dataset-serialize",
+			"version": "v2.5.9",
+			"hash": "62a95816d2cac761b15521c06fe43109",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"https://github.com/rafael-figueiredo-alves/dotenv4delphi": {
+			"name": "dotenv4delphi",
+			"version": "v1.5.0",
+			"hash": "62710e3cbe8f2c5c35557aeb5bd5c36c",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}

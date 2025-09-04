@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/12 15:35:56.000.336,=C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 12:49:38.000.664,C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Econ25\FinanceiroApi\FinanceiroApi.dproj</Transaction>
+    <Transaction>2025/08/02 12:49:50.000.989,=C:\Econ25\FinanceiroApi\src\dto\FinanceiroApi.Dto.Input.Pagamento.pas</Transaction>
+    <Transaction>2025/08/02 12:49:51.000.098,=C:\Econ25\FinanceiroApi\src\dto\FinanceiroApi.Dto.Output.Pagamento.pas</Transaction>
+    <Transaction>2025/08/02 12:50:14.000.808,=C:\Econ25\FinanceiroApi\src\exception\FinanceiroApi.Exception.TokenInvalido.pas</Transaction>
+    <Transaction>2025/08/02 12:50:25.000.650,=C:\Econ25\FinanceiroApi\src\mapper\FinanceiroApi.Mapper.PagamentoOutput.pas</Transaction>
+    <Transaction>2025/08/02 12:50:40.000.442,=C:\Econ25\FinanceiroApi\src\service\FinanceiroApi.Service.Pagamento.pas</Transaction>
+    <Transaction>2025/08/02 12:50:53.000.474,=C:\Econ25\FinanceiroApi\src\util\FinanceiroApi.Util.Token.pas</Transaction>
+    <Transaction>2025/08/02 12:55:36.000.259,=C:\Econ25\FinanceiroApi\src\util\FinanceiroApi.Util.Token.pas</Transaction>
+    <Transaction>2025/08/02 12:56:02.000.168,=C:\Econ25\FinanceiroApi\src\exception\FinanceiroApi.Exception.TokenInvalido.pas</Transaction>
+    <Transaction>2025/08/02 12:56:22.000.280,=C:\Econ25\FinanceiroApi\src\service\FinanceiroApi.Service.Pagamento.pas</Transaction>
+    <Transaction>2025/08/02 12:57:06.000.785,=C:\Econ25\FinanceiroApi\src\mapper\FinanceiroApi.Mapper.PagamentoOutput.pas</Transaction>
+    <Transaction>2025/08/02 13:00:52.000.834,=C:\Econ25\FinanceiroApi\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 13:01:13.000.021,C:\Econ25\FinanceiroApi\Unit1.pas=C:\Econ25\FinanceiroApi\src\factory\FinanceiroApi.Factory.Conexao.pas</Transaction>
+    <Transaction>2025/08/02 13:27:02.000.806,=C:\Econ25\FinanceiroApi\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 13:27:24.000.745,C:\Econ25\FinanceiroApi\Unit1.pas=C:\Econ25\FinanceiroApi\src\controller\FinanceiroApi.Controller.Pagamento.pas</Transaction>
+    <Transaction>2025/08/02 13:45:43.000.453,=C:\Econ25\FinanceiroApi\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 13:46:00.000.415,C:\Econ25\FinanceiroApi\Unit1.pas=C:\Econ25\FinanceiroApi\src\route\FinanceiroApi.Route.Pagamento.pas</Transaction>
+    <Transaction>2025/08/02 13:46:32.000.278,C:\Econ25\FinanceiroApi\src\route\FinanceiroApi.Route.Pagamento.pas=C:\Econ25\FinanceiroApi\src\route\FinanceiroApi.Route.Pagamentos.pas</Transaction>
+    <Transaction>2025/08/02 13:58:12.000.655,=C:\Econ25\FinanceiroApi\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 13:58:27.000.511,C:\Econ25\FinanceiroApi\Unit1.pas=C:\Econ25\FinanceiroApi\src\util\FinanceiroApi.Util.Banner.pas</Transaction>
+    <Transaction>2025/08/22 17:26:07.000.618,=C:\Econ25\FinanceiroApi\Unit1.pas</Transaction>
+    <Transaction>2025/08/22 17:26:24.000.164,C:\Econ25\FinanceiroApi\src\util\FinanceiroApi.Util.Terminal.pas=C:\Econ25\FinanceiroApi\Unit1.pas</Transaction>
+    <Transaction>2025/08/22 17:27:44.000.853,C:\Econ25\FinanceiroApi\src\exception\FinanceiroApi.Exception.TokenInvalido.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

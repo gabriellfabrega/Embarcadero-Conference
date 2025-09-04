@@ -1,0 +1,62 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2025-07-23T19:07:55.9928737-03:00",
+	"installedModules": {
+		"github.com/hashload/handle-exception": {
+			"name": "handle-exception",
+			"version": "0.1.9",
+			"hash": "b7878eb4d418c67420daf8cc2e7f9dda",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/horse": {
+			"name": "horse",
+			"version": "3.1.6",
+			"hash": "7fdacf6b762af6406e17d06e1c5fb0a1",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/jhonson": {
+			"name": "jhonson",
+			"version": "1.1.9",
+			"hash": "ab9663f2e7c0ab2086e560c9c66ce092",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/viniciussanchez/dataset-serialize": {
+			"name": "dataset-serialize",
+			"version": "v2.5.9",
+			"hash": "62a95816d2cac761b15521c06fe43109",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/viniciussanchez/dataset-serialize-adapter-restrequest4delphi": {
+			"name": "dataset-serialize-adapter-restrequest4delphi",
+			"version": "1.0.3",
+			"hash": "d9a3c0f53efa0d263d31cd10bfa42542",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/viniciussanchez/restrequest4delphi": {
+			"name": "restrequest4delphi",
+			"version": "v4.0.23",
+			"hash": "49ba5fc67d95a50d4062afe46b56489c",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"https://github.com/rafael-figueiredo-alves/dotenv4delphi": {
+			"name": "dotenv4delphi",
+			"version": "v1.5.0",
+			"hash": "62710e3cbe8f2c5c35557aeb5bd5c36c",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}

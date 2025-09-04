@@ -1,0 +1,22 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2025-08-03T12:02:52.2892124-03:00",
+	"installedModules": {
+		"github.com/viniciussanchez/restrequest4delphi": {
+			"name": "restrequest4delphi",
+			"version": "v4.0.23",
+			"hash": "0a8937cc5fade8c3c88eddac49ba645f",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"https://github.com/rafael-figueiredo-alves/dotenv4delphi": {
+			"name": "dotenv4delphi",
+			"version": "v1.5.0",
+			"hash": "62710e3cbe8f2c5c35557aeb5bd5c36c",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "FinanceiroApi",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/handle-exception": "^0.1.9",
+		"github.com/hashload/horse": "^3.1.6",
+		"github.com/hashload/horse-logger": "^2.0.8",
+		"github.com/hashload/horse-logger-provider-console": "^1.0.9",
+		"github.com/hashload/jhonson": "^1.1.9",
+		"github.com/paolo-rossi/delphi-jose-jwt": "^v3.3.1",
+		"github.com/viniciussanchez/dataset-serialize": "^v2.5.9",
+		"https://github.com/rafael-figueiredo-alves/dotenv4delphi": "^v1.5.0"
+	}
+}

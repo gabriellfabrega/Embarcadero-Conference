@@ -1,9 +1,13 @@
-2024/backend/modules/
-2024/ConferencePDV/modules/
+**/modules/
+**/Android/
+**/Win32/
 *.dcu
 __history/
 *.exe
 *.identcache
+*.env
+*.env.template
+*.pem
 # OSX
 #
 .DS_Store

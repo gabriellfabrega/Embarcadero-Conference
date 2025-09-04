@@ -1,0 +1,72 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{158B484F-0646-453D-AA83-C0BCF0FE4BD5}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="FinanceiroApi\FinanceiroApi.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Client\Client.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ClientMail\ClientMail.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ClientBI\ClientBI.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="FinanceiroApi">
+        <MSBuild Projects="FinanceiroApi\FinanceiroApi.dproj"/>
+    </Target>
+    <Target Name="FinanceiroApi:Clean">
+        <MSBuild Projects="FinanceiroApi\FinanceiroApi.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FinanceiroApi:Make">
+        <MSBuild Projects="FinanceiroApi\FinanceiroApi.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Client">
+        <MSBuild Projects="Client\Client.dproj"/>
+    </Target>
+    <Target Name="Client:Clean">
+        <MSBuild Projects="Client\Client.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Client:Make">
+        <MSBuild Projects="Client\Client.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ClientMail">
+        <MSBuild Projects="ClientMail\ClientMail.dproj"/>
+    </Target>
+    <Target Name="ClientMail:Clean">
+        <MSBuild Projects="ClientMail\ClientMail.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ClientMail:Make">
+        <MSBuild Projects="ClientMail\ClientMail.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ClientBI">
+        <MSBuild Projects="ClientBI\ClientBI.dproj"/>
+    </Target>
+    <Target Name="ClientBI:Clean">
+        <MSBuild Projects="ClientBI\ClientBI.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ClientBI:Make">
+        <MSBuild Projects="ClientBI\ClientBI.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="FinanceiroApi;Client;ClientMail;ClientBI"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="FinanceiroApi:Clean;Client:Clean;ClientMail:Clean;ClientBI:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="FinanceiroApi:Make;Client:Make;ClientMail:Make;ClientBI:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

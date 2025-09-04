@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/12 15:35:56.000.336,=C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/23 19:06:56.000.601,=C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/23 19:07:36.000.754,C:\Econ25\clients\PasswordFlowClient\src\view\PasswordFlowClient.View.Principal.pas=C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/23 19:07:36.000.754,C:\Econ25\clients\PasswordFlowClient\src\view\PasswordFlowClient.View.Principal.dfm=C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/07/23 19:07:47.000.912,C:\Econ25\clients\PasswordFlowClient\PasswordFlowClient.dproj=C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/23 19:54:49.000.872,=C:\Econ25\clients\PasswordFlowClient\Unit2.pas</Transaction>
+    <Transaction>2025/07/23 19:55:11.000.012,C:\Econ25\clients\PasswordFlowClient\src\view\PasswordFlowClient.View.Login.pas=C:\Econ25\clients\PasswordFlowClient\Unit2.pas</Transaction>
+    <Transaction>2025/07/23 19:55:11.000.012,C:\Econ25\clients\PasswordFlowClient\src\view\PasswordFlowClient.View.Login.dfm=C:\Econ25\clients\PasswordFlowClient\Unit2.dfm</Transaction>
+    <Transaction>2025/07/23 19:55:44.000.435,=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/23 19:56:17.000.934,C:\Econ25\clients\PasswordFlowClient\src\controller\PasswordFlowClient.Controller.Autenticacao.pas=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/23 20:07:55.000.748,=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/23 20:08:28.000.781,C:\Econ25\clients\PasswordFlowClient\src\singleton\PasswordFlowClient.singleton.Token.pas=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/23 20:10:05.000.278,C:\Econ25\clients\PasswordFlowClient\src\singleton\PasswordFlowClient.xingleton.Token.pas=C:\Econ25\clients\PasswordFlowClient\src\singleton\PasswordFlowClient.singleton.Token.pas</Transaction>
+    <Transaction>2025/07/23 20:10:13.000.513,C:\Econ25\clients\PasswordFlowClient\src\singleton\PasswordFlowClient.Singleton.Token.pas=C:\Econ25\clients\PasswordFlowClient\src\singleton\PasswordFlowClient.xingleton.Token.pas</Transaction>
+    <Transaction>2025/07/26 12:11:30.000.975,C:\Econ25\clients\PasswordFlowClient\Client.dproj=C:\Econ25\clients\PasswordFlowClient\PasswordFlowClient.dproj</Transaction>
+    <Transaction>2025/07/26 12:12:29.000.289,C:\Econ25\clients\PasswordFlowClient\src\controller\Client.Controller.Autenticacao.pas=C:\Econ25\clients\PasswordFlowClient\src\controller\PasswordFlowClient.Controller.Autenticacao.pas</Transaction>
+    <Transaction>2025/07/26 12:12:57.000.960,C:\Econ25\clients\PasswordFlowClient\src\controller\Client.Controller.Autenticacao.Password.Impl.pas=C:\Econ25\clients\PasswordFlowClient\src\controller\Client.Controller.Autenticacao.pas</Transaction>
+    <Transaction>2025/07/26 12:13:22.000.507,=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/26 12:13:40.000.976,C:\Econ25\clients\PasswordFlowClient\src\controller\Client.Controller.Autenticacao.pas=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/26 12:18:02.000.288,=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/26 12:18:15.000.491,C:\Econ25\clients\PasswordFlowClient\src\controller\Client.Controller.Autenticacao.Code.Impl.pas=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/31 17:46:38.000.495,=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/31 17:47:11.000.829,C:\Econ25\clients\PasswordFlowClient\Unit1.dfm=C:\Econ25\clients\PasswordFlowClient\src\view\Client.View.Frame.Pagamento.dfm</Transaction>
+    <Transaction>2025/07/31 17:47:11.000.829,C:\Econ25\clients\PasswordFlowClient\Unit1.pas=C:\Econ25\clients\PasswordFlowClient\src\view\Client.View.Frame.Pagamento.pas</Transaction>
+    <Transaction>2025/07/31 18:11:27.000.291,=C:\Econ25\clients\PasswordFlowClient\Unit1.pas</Transaction>
+    <Transaction>2025/07/31 18:11:42.000.034,C:\Econ25\clients\PasswordFlowClient\Unit1.pas=C:\Econ25\clients\PasswordFlowClient\src\util\Client.Util.Data.pas</Transaction>
+    <Transaction>2025/08/02 11:38:53.000.625,=C:\Econ25\clients\Client\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 11:39:13.000.503,C:\Econ25\clients\Client\src\dto\Client.Dto.Input.Pagamento.pas=C:\Econ25\clients\Client\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 11:48:03.000.163,C:\Econ25\clients\Client\src\view\Client.View.Login.pas=C:\Econ25\clients\Client\src\view\PasswordFlowClient.View.Login.pas</Transaction>
+    <Transaction>2025/08/02 11:48:03.000.163,C:\Econ25\clients\Client\src\view\Client.View.Login.dfm=C:\Econ25\clients\Client\src\view\PasswordFlowClient.View.Login.dfm</Transaction>
+    <Transaction>2025/08/02 11:49:42.000.912,C:\Econ25\clients\Client\src\view\Client.View.Principal.pas=C:\Econ25\clients\Client\src\view\PasswordFlowClient.View.Principal.pas</Transaction>
+    <Transaction>2025/08/02 11:49:42.000.912,C:\Econ25\clients\Client\src\view\Client.View.Principal.dfm=C:\Econ25\clients\Client\src\view\PasswordFlowClient.View.Principal.dfm</Transaction>
+    <Transaction>2025/08/02 12:16:37.000.989,=C:\Econ25\clients\Client\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 12:16:52.000.862,C:\Econ25\clients\Client\src\util\Client.Util.Autenticacao.pas=C:\Econ25\clients\Client\Unit1.pas</Transaction>
+    <Transaction>2025/08/02 12:40:18.000.681,C:\Econ25\clients\Client\src\singleton\PasswordFlowClient.Singleton.Token.pas=C:\Econ25\clients\Client\src\singleton\Client.Singleton.Token.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="src"/>
+    <File Path="src\dto"/>
+    <File Path="src\dto\Client.Dto.Input.Pagamento.pas"/>
+    <File Path="src\singleton"/>
+    <File Path="src\singleton\Client.Singleton.Token.pas"/>
+    <File Path="src\util"/>
+    <File Path="src\util\Client.Util.Autenticacao.pas"/>
+    <File Path="src\view"/>
+    <File Path="src\view\Client.View.Login.pas"/>
+    <File Path="src\view\Client.View.Login.dfm"/>
+    <File Path="src\view\Client.View.Principal.pas"/>
+    <File Path="src\view\Client.View.Principal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/12 15:35:56.000.336,=C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/03 12:02:31.000.084,C:\Econ25\ClientMail\ClientMail.dproj=C:\Users\gabrielf\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/08/03 12:09:46.000.240,=C:\Econ25\ClientMail\Unit1.pas</Transaction>
+    <Transaction>2025/08/03 12:09:56.000.939,C:\Econ25\ClientMail\Unit1.pas=C:\Econ25\ClientMail\src\util\ClientMail.Util.Autenticacao.pas</Transaction>
+    <Transaction>2025/08/03 12:11:00.000.198,=C:\Econ25\ClientMail\Unit1.pas</Transaction>
+    <Transaction>2025/08/03 12:11:12.000.340,C:\Econ25\ClientMail\Unit1.pas=C:\Econ25\ClientMail\src\singleton\ClientMail.Singleton.Token.pas</Transaction>
+  </Transactions>
+</BorlandProject>
